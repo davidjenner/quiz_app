@@ -1,4 +1,4 @@
-# quiz_app
+# Tech Quiz
 
 A new Flutter project.
 
