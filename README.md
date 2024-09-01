@@ -6,7 +6,7 @@ A new Flutter project.
 
 # Flutter Tech Quiz App
 
-<img width="331" alt="[Screenshot 2024-08-30 at 19 29 14" src="https://github.com/user-attachments/assets/cfed9eed-e538-4024-a797-6f959428d485](https://github.com/davidjenner/quiz_app/blob/main/screenshot/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-01%20at%2012.53.21.png)">
+<img width="331" alt="[Screenshot 2024-08-30 at 19 29 14" src="https://github.com/davidjenner/quiz_app/blob/main/screenshot/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-01%20at%2012.53.21.png">
 
 
 ## Flutter Doctor
